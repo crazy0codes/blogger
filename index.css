@@ -8,5 +8,17 @@ body {
 }
 
 .widget-content {
+    margin-top : 20px;
     border-radius: 10px;
+    overflow : hidden;
+}
+
+.sidebar {
+    background-color: #d28c8c;
+    margin : 20px;
+    border-radius : 10px
+}
+
+#Profile1 {
+    margin : 0px
 }
